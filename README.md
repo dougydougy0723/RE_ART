@@ -7,5 +7,5 @@ _SHARE &amp; CREATE A NEW WORLD_
 - Who?
 - Everyone can participate in this project.
 - Why?
-- REAL ART is being pushed to the edge now. No one focus on it. Perhaps I can stretch people's attention to art by creating **RE_ART**.
+- REAL ART is being pushed to the edge now. No one focuses on it. Perhaps I can stretch people's attention to art by creating **RE_ART**.
 
